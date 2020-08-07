@@ -1,4 +1,5 @@
-"""info del pack"""
+"""El proyecto trata de lograr crear un  package que permita diseñar interfaces (utilizando Tkinter)
+de forma sencilla y poder share"""
 
 from setuptools import setup
 
@@ -10,5 +11,4 @@ setup(
 	license = "GNU",
 	url = "#",
 	packages = ["pack_iGrafica"]
-
 	)
