@@ -2,7 +2,7 @@
 de forma sencilla y poder share"""
 
 from setuptools import setup
-#configuracion del package
+#configuracion del 
 setup(
 	name = "iGrafica",
 	version = "1.0",
